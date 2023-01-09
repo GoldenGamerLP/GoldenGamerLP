@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MongoDB, Gson and Async Development**
 
-- 📫 How to reach me [**Discord**](https://discordapp.com/users/513664776069447680)
+- 📫 How to reach me [**Discord**](https://discord.gg/T94JxSNSSv)
 
 - ⚡ Fun fact **Events driving makes me crazy**
 
