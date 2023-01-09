@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goldengamerlp&label=Profile%20views&color=ffae00&style=plastic" alt="goldengamerlp" /> </p>
 
-- 🔭 I’m currently working on [**TheAllayNET**](https://theallay.net/)
+- 🔭 I’m currently working on [**Minesumo**](https://github.com/GoldenGamerLP/Minesumo)
 
 - 🌱 I’m currently learning **Json serialization and Front-End Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me [**Discord**](https://discordapp.com/users/513664776069447680)
 
-- ⚡ Fun fact **Async Programming is not eazy**
+- ⚡ Fun fact **Events driving makes me crazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
